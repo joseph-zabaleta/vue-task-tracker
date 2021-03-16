@@ -1,19 +1,30 @@
-# vue-task-tracker
+# Overview
+
+Simple Vue Basics with a Task tracker.
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Authors
+
+-   Software Developer: Joseph Zabaleta
+    -   [Official Github](https://github.com/joseph-zabaleta)
+
+## License
+
+This project is under the MIT License.
